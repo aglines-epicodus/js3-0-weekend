@@ -1,0 +1,20 @@
+{
+  "name": "online-store",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Andrew Glines <aglines@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/aglines-epicodus/js3-0-weekend",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
